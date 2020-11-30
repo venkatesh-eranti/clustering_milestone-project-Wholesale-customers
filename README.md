@@ -1,0 +1,2 @@
+# clustering_-milestone-project-Wholesale-customers-
+The wholesale distributor is considering changing its delivery service from currently 5 days a week to 3 days a week. However, the distributor will only make this change in delivery service for customers that react positively. How can the wholesale distributor use the customer segments to determine which customers, if any, would reach positively to the change in delivery service?
